@@ -12,7 +12,6 @@
 		1E3EA7211C72288F0067260F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E3EA7201C72288F0067260F /* Assets.xcassets */; };
 		1E3EA7241C72288F0067260F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E3EA7221C72288F0067260F /* LaunchScreen.storyboard */; };
 		1EBEA5B71C751CDC003EF159 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EBEA5B61C751CDC003EF159 /* MyCollectionViewCell.swift */; };
-		1EBEA5B91C7527A1003EF159 /* Chameleon-master in Resources */ = {isa = PBXBuildFile; fileRef = 1EBEA5B81C7527A1003EF159 /* Chameleon-master */; };
 		1EBEA5BD1C766B31003EF159 /* CAGradientLayer+Convenience.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EBEA5BC1C766B31003EF159 /* CAGradientLayer+Convenience.swift */; };
 		1EBEA5C31C76788A003EF159 /* BebasNeue Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1EBEA5BE1C76788A003EF159 /* BebasNeue Bold.otf */; };
 		1EBEA5C41C76788A003EF159 /* BebasNeue Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1EBEA5BF1C76788A003EF159 /* BebasNeue Book.otf */; };
@@ -36,7 +35,6 @@
 		1E3EA7231C72288F0067260F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1E3EA7251C72288F0067260F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1EBEA5B61C751CDC003EF159 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
-		1EBEA5B81C7527A1003EF159 /* Chameleon-master */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Chameleon-master"; sourceTree = "<group>"; };
 		1EBEA5BC1C766B31003EF159 /* CAGradientLayer+Convenience.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CAGradientLayer+Convenience.swift"; sourceTree = "<group>"; };
 		1EBEA5BE1C76788A003EF159 /* BebasNeue Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BebasNeue Bold.otf"; sourceTree = "<group>"; };
 		1EBEA5BF1C76788A003EF159 /* BebasNeue Book.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BebasNeue Book.otf"; sourceTree = "<group>"; };
@@ -97,7 +95,6 @@
 				1E3EA7201C72288F0067260F /* Assets.xcassets */,
 				1E3EA7221C72288F0067260F /* LaunchScreen.storyboard */,
 				1E3EA7251C72288F0067260F /* Info.plist */,
-				1EBEA5B81C7527A1003EF159 /* Chameleon-master */,
 			);
 			path = "Test Collection2";
 			sourceTree = "<group>";
@@ -178,7 +175,6 @@
 				1EBEA5C31C76788A003EF159 /* BebasNeue Bold.otf in Resources */,
 				1EBEA5C71C76788A003EF159 /* BebasNeue Thin.otf in Resources */,
 				1E3EA7241C72288F0067260F /* LaunchScreen.storyboard in Resources */,
-				1EBEA5B91C7527A1003EF159 /* Chameleon-master in Resources */,
 				1E3EA7211C72288F0067260F /* Assets.xcassets in Resources */,
 				1E3EA71F1C72288F0067260F /* Main.storyboard in Resources */,
 			);
